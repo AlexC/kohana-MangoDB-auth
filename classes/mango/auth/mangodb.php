@@ -3,7 +3,7 @@
  * Kohana MangoDB (MongoDB) Auth driver
  *
  * @author     Alex Cartwright <alexc223@gmail.com>
- * @copyright  Copyright (c) 2012, Alex Cartwright
+ * @copyright  Copyright (c) 2012 Alex Cartwright
  * @license    BSD 3-Clause License, see LICENSE file
  */
 class Mango_Auth_Mangodb extends Auth {
